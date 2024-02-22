@@ -34,7 +34,22 @@ npm start
 Access the dashboard at http://localhost:3000.
 
 Screenshots
+![image](https://github.com/madhurigopal/Instantaneous-Data-Insights-Platform/assets/5304382/4310c2f8-da23-4d31-bbc5-4e1d785bcb80)
+
 ![image](https://github.com/madhurigopal/Instantaneous-Data-Insights-Platform/assets/5304382/615cb628-4414-4260-8081-3c4c10d2e04f)
+
+![image](https://github.com/madhurigopal/Instantaneous-Data-Insights-Platform/assets/5304382/2652d3c2-eb52-406e-95c2-fa2ad73c2380)
+
+![image](https://github.com/madhurigopal/Instantaneous-Data-Insights-Platform/assets/5304382/24b19759-2379-4f52-ae8e-7bf0b4004135)
+
+![image](https://github.com/madhurigopal/Instantaneous-Data-Insights-Platform/assets/5304382/0ae06b35-e324-44b6-8c9f-defb489018c5)
+
+![image](https://github.com/madhurigopal/Instantaneous-Data-Insights-Platform/assets/5304382/d708612f-53a4-451b-b21a-6cdbff60b022)
+
+
+
+
+
 
 Future Integrations
 Explore the possibilities of extending the prototype with advanced machine learning models, integrating additional data sources, enhancing dashboard functionality, and incorporating advanced cloud services.
